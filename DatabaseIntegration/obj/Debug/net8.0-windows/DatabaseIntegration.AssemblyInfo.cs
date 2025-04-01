@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseIntegration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5615a542f58fc0dacd903413ea88401fb6eedeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabaseIntegration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabaseIntegration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

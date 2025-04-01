@@ -1672,11 +1672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erike\\source\\repos\\DatabaseIntegration\\DatabaseIntegration\\DatabaseIntegration.csproj",
+      "projectUniqueName": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\DatabaseIntegration.csproj",
       "projectName": "DatabaseIntegration",
-      "projectPath": "C:\\Users\\erike\\source\\repos\\DatabaseIntegration\\DatabaseIntegration\\DatabaseIntegration.csproj",
+      "projectPath": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\DatabaseIntegration.csproj",
       "packagesPath": "C:\\Users\\erike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erike\\source\\repos\\DatabaseIntegration\\DatabaseIntegration\\obj\\",
+      "outputPath": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
