@@ -16,5 +16,8 @@
     <Compile Update="GUIAccess.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="TechMgmt.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
