@@ -1,6 +1,6 @@
 ﻿namespace DatabaseIntegration
 {
-    partial class Form3
+    partial class SchedAppt
     {
         /// <summary>
         /// Required designer variable.

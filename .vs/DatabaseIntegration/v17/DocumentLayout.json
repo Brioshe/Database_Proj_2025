@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aould\\Documents\\School\\Database\\Database_Proj_2025\\",
+  "WorkspaceRootPath": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\aould\\documents\\school\\database\\database_proj_2025\\databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\erike\\documents\\github\\database_proj_2025\\databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\aould\\documents\\school\\database\\database_proj_2025\\databaseintegration\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\erike\\documents\\github\\database_proj_2025\\databaseintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\aould\\documents\\school\\database\\database_proj_2025\\databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\erike\\documents\\github\\database_proj_2025\\databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\aould\\documents\\school\\database\\database_proj_2025\\databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\erike\\documents\\github\\database_proj_2025\\databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\erike\\documents\\github\\database_proj_2025\\databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,62 +29,73 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 262,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 277,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GUIAccess.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aould\\Documents\\School\\Database\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs",
+              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs",
               "RelativeDocumentMoniker": "DatabaseIntegration\\GUIAccess.cs",
-              "ToolTip": "C:\\Users\\aould\\Documents\\School\\Database\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs [Design]",
+              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs [Design]",
               "RelativeToolTip": "DatabaseIntegration\\GUIAccess.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T04:05:43.518Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 138,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aould\\Documents\\School\\Database\\Database_Proj_2025\\DatabaseIntegration\\Form3.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\Form3.cs",
-              "ToolTip": "C:\\Users\\aould\\Documents\\School\\Database\\Database_Proj_2025\\DatabaseIntegration\\Form3.cs [Design]",
-              "RelativeToolTip": "DatabaseIntegration\\Form3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T04:38:17.334Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "addVehicle.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aould\\Documents\\School\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\addVehicle.cs",
-              "ToolTip": "C:\\Users\\aould\\Documents\\School\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs [Design]",
-              "RelativeToolTip": "DatabaseIntegration\\addVehicle.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T04:32:06.299Z",
+              "WhenOpened": "2025-04-02T11:50:14.837Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "addcustomer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aould\\Documents\\School\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\addcustomer.cs",
-              "ToolTip": "C:\\Users\\aould\\Documents\\School\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs [Design]",
-              "RelativeToolTip": "DatabaseIntegration\\addcustomer.cs [Design]",
+              "Title": "AddCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\AddCustomer.cs",
+              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\AddCustomer.cs [Design]",
+              "RelativeToolTip": "DatabaseIntegration\\AddCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:06:55.175Z",
+              "WhenOpened": "2025-04-02T11:47:56.271Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddVehicle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\AddVehicle.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\AddVehicle.cs",
+              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\AddVehicle.cs [Design]",
+              "RelativeToolTip": "DatabaseIntegration\\AddVehicle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:47:24.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchedAppt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\SchedAppt.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\SchedAppt.cs",
+              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\SchedAppt.cs [Design]",
+              "RelativeToolTip": "DatabaseIntegration\\SchedAppt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:46:00.595Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\Program.cs",
+              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
+              "RelativeToolTip": "DatabaseIntegration\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:36:41.684Z",
+              "EditorCaption": ""
             }
           ]
         }

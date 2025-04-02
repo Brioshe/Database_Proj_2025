@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DatabaseIntegration
 {
-    public partial class addcustomer : Form
+    public partial class AddCustomer : Form
     {
-        public addcustomer()
+        public AddCustomer()
         {
             InitializeComponent();
         }
