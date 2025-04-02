@@ -15,6 +15,8 @@ namespace DatabaseIntegration
             addVehicle.Show();
             AddCustomer addcustomer = new();
             addcustomer.Show();
+            SchedAppt schedAppt = new();
+            schedAppt.Show();
             Application.Run(new GUIAccess());
 
         }
