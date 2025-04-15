@@ -32,6 +32,15 @@
             label11 = new Label();
             panel1 = new Panel();
             groupBox3 = new GroupBox();
+            label4 = new Label();
+            textBox2 = new TextBox();
+            button2 = new Button();
+            comboBox4 = new ComboBox();
+            label5 = new Label();
+            label3 = new Label();
+            textBox1 = new TextBox();
+            button1 = new Button();
+            comboBox3 = new ComboBox();
             label16 = new Label();
             dateTimePicker2 = new DateTimePicker();
             label15 = new Label();
@@ -41,15 +50,6 @@
             label1 = new Label();
             comboBox2 = new ComboBox();
             label2 = new Label();
-            comboBox3 = new ComboBox();
-            button1 = new Button();
-            label3 = new Label();
-            textBox1 = new TextBox();
-            label4 = new Label();
-            textBox2 = new TextBox();
-            button2 = new Button();
-            comboBox4 = new ComboBox();
-            label5 = new Label();
             groupBox1 = new GroupBox();
             textBox3 = new TextBox();
             button3 = new Button();
@@ -114,6 +114,89 @@
             groupBox3.TabStop = false;
             groupBox3.Text = "Appointment Information";
             // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(199, 220);
+            label4.Name = "label4";
+            label4.Size = new Size(87, 15);
+            label4.TabIndex = 42;
+            label4.Text = "Added Services";
+            // 
+            // textBox2
+            // 
+            textBox2.BackColor = SystemColors.ButtonHighlight;
+            textBox2.Location = new Point(292, 129);
+            textBox2.Multiline = true;
+            textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
+            textBox2.Size = new Size(235, 106);
+            textBox2.TabIndex = 41;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(225, 158);
+            button2.Name = "button2";
+            button2.Size = new Size(61, 23);
+            button2.TabIndex = 40;
+            button2.Text = "Add";
+            button2.UseVisualStyleBackColor = true;
+            // 
+            // comboBox4
+            // 
+            comboBox4.Font = new Font("Segoe UI Semilight", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            comboBox4.FormattingEnabled = true;
+            comboBox4.Location = new Point(100, 129);
+            comboBox4.Name = "comboBox4";
+            comboBox4.Size = new Size(186, 23);
+            comboBox4.TabIndex = 39;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(25, 133);
+            label5.Name = "label5";
+            label5.Size = new Size(69, 15);
+            label5.TabIndex = 38;
+            label5.Text = "Add Service";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(184, 108);
+            label3.Name = "label3";
+            label3.Size = new Size(102, 15);
+            label3.TabIndex = 37;
+            label3.Text = "Added Mechanics";
+            // 
+            // textBox1
+            // 
+            textBox1.BackColor = SystemColors.ButtonHighlight;
+            textBox1.Location = new Point(292, 50);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.ReadOnly = true;
+            textBox1.Size = new Size(235, 73);
+            textBox1.TabIndex = 36;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(225, 79);
+            button1.Name = "button1";
+            button1.Size = new Size(61, 23);
+            button1.TabIndex = 35;
+            button1.Text = "Add";
+            button1.UseVisualStyleBackColor = true;
+            // 
+            // comboBox3
+            // 
+            comboBox3.Font = new Font("Segoe UI Semilight", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            comboBox3.FormattingEnabled = true;
+            comboBox3.Location = new Point(100, 50);
+            comboBox3.Name = "comboBox3";
+            comboBox3.Size = new Size(186, 23);
+            comboBox3.TabIndex = 34;
+            // 
             // label16
             // 
             label16.AutoSize = true;
@@ -136,7 +219,7 @@
             label15.AutoSize = true;
             label15.Location = new Point(230, 25);
             label15.Name = "label15";
-            label15.Size = new Size(33, 15);
+            label15.Size = new Size(34, 15);
             label15.TabIndex = 26;
             label15.Text = "Time";
             // 
@@ -195,89 +278,6 @@
             label2.TabIndex = 33;
             label2.Text = "Vehicle";
             // 
-            // comboBox3
-            // 
-            comboBox3.Font = new Font("Segoe UI Semilight", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            comboBox3.FormattingEnabled = true;
-            comboBox3.Location = new Point(100, 50);
-            comboBox3.Name = "comboBox3";
-            comboBox3.Size = new Size(186, 23);
-            comboBox3.TabIndex = 34;
-            // 
-            // button1
-            // 
-            button1.Location = new Point(225, 79);
-            button1.Name = "button1";
-            button1.Size = new Size(61, 23);
-            button1.TabIndex = 35;
-            button1.Text = "Add";
-            button1.UseVisualStyleBackColor = true;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Location = new Point(184, 108);
-            label3.Name = "label3";
-            label3.Size = new Size(102, 15);
-            label3.TabIndex = 37;
-            label3.Text = "Added Mechanics";
-            // 
-            // textBox1
-            // 
-            textBox1.BackColor = SystemColors.ButtonHighlight;
-            textBox1.Location = new Point(292, 50);
-            textBox1.Multiline = true;
-            textBox1.Name = "textBox1";
-            textBox1.ReadOnly = true;
-            textBox1.Size = new Size(235, 73);
-            textBox1.TabIndex = 36;
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Location = new Point(199, 220);
-            label4.Name = "label4";
-            label4.Size = new Size(87, 15);
-            label4.TabIndex = 42;
-            label4.Text = "Added Services";
-            // 
-            // textBox2
-            // 
-            textBox2.BackColor = SystemColors.ButtonHighlight;
-            textBox2.Location = new Point(292, 129);
-            textBox2.Multiline = true;
-            textBox2.Name = "textBox2";
-            textBox2.ReadOnly = true;
-            textBox2.Size = new Size(235, 106);
-            textBox2.TabIndex = 41;
-            // 
-            // button2
-            // 
-            button2.Location = new Point(225, 158);
-            button2.Name = "button2";
-            button2.Size = new Size(61, 23);
-            button2.TabIndex = 40;
-            button2.Text = "Add";
-            button2.UseVisualStyleBackColor = true;
-            // 
-            // comboBox4
-            // 
-            comboBox4.Font = new Font("Segoe UI Semilight", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            comboBox4.FormattingEnabled = true;
-            comboBox4.Location = new Point(100, 129);
-            comboBox4.Name = "comboBox4";
-            comboBox4.Size = new Size(186, 23);
-            comboBox4.TabIndex = 39;
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.Location = new Point(25, 133);
-            label5.Name = "label5";
-            label5.Size = new Size(69, 15);
-            label5.TabIndex = 38;
-            label5.Text = "Add Service";
-            // 
             // groupBox1
             // 
             groupBox1.Controls.Add(textBox3);
@@ -294,7 +294,6 @@
             textBox3.Location = new Point(7, 22);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
-            textBox3.ReadOnly = true;
             textBox3.Size = new Size(520, 175);
             textBox3.TabIndex = 43;
             // 
@@ -306,6 +305,7 @@
             button3.TabIndex = 25;
             button3.Text = "OK";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -315,8 +315,9 @@
             button4.TabIndex = 26;
             button4.Text = "Cancel";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
-            // Form3
+            // SchedAppt
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -330,7 +331,7 @@
             Controls.Add(label1);
             Controls.Add(groupBox3);
             Controls.Add(panel1);
-            Name = "Form3";
+            Name = "SchedAppt";
             Text = "Form3";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();

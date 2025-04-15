@@ -17,14 +17,14 @@ namespace DatabaseIntegration
             InitializeComponent();
         }
 
-        private void TechMgmt_Load(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)
         {
-
+            Close();
         }
 
-        private void label6_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-
+            Close();
         }
     }
 }
