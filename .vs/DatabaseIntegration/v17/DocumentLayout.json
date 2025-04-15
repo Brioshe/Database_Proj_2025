@@ -1,38 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\",
+  "WorkspaceRootPath": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\erike\\documents\\github\\database_proj_2025\\databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\erike\\documents\\github\\database_proj_2025\\databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\erike\\documents\\github\\database_proj_2025\\databaseintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\erike\\documents\\github\\database_proj_2025\\databaseintegration\\guiaccess.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\guiaccess.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,109 +34,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 277,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TechMgmt.cs",
-              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\TechMgmt.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\TechMgmt.cs",
-              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\TechMgmt.cs",
-              "RelativeToolTip": "DatabaseIntegration\\TechMgmt.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADgvxoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T15:50:06.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TechMgmt.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\TechMgmt.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\TechMgmt.cs",
-              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\TechMgmt.cs [Design]",
-              "RelativeToolTip": "DatabaseIntegration\\TechMgmt.cs [Design]",
+              "Title": "addVehicle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\addVehicle.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs [Design]",
+              "RelativeToolTip": "DatabaseIntegration\\addVehicle.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T15:46:50.173Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GUIAccess.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\GUIAccess.cs",
-              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs [Design]",
-              "RelativeToolTip": "DatabaseIntegration\\GUIAccess.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T11:50:14.837Z",
+              "WhenOpened": "2025-04-15T18:25:42.517Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AddCustomer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\AddCustomer.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\AddCustomer.cs",
-              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\AddCustomer.cs [Design]",
-              "RelativeToolTip": "DatabaseIntegration\\AddCustomer.cs [Design]",
+              "Title": "addcustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\addcustomer.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs [Design]",
+              "RelativeToolTip": "DatabaseIntegration\\addcustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T11:47:56.271Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddVehicle.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\AddVehicle.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\AddVehicle.cs",
-              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\AddVehicle.cs [Design]",
-              "RelativeToolTip": "DatabaseIntegration\\AddVehicle.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T11:47:24.503Z",
+              "WhenOpened": "2025-04-15T17:36:53.522Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TechMgmt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\TechMgmt.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\TechMgmt.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\TechMgmt.cs [Design]",
+              "RelativeToolTip": "DatabaseIntegration\\TechMgmt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:35:02.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SchedAppt.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\SchedAppt.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\SchedAppt.cs",
               "RelativeDocumentMoniker": "DatabaseIntegration\\SchedAppt.cs",
-              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\SchedAppt.cs [Design]",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\SchedAppt.cs [Design]",
               "RelativeToolTip": "DatabaseIntegration\\SchedAppt.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T11:46:00.595Z",
+              "WhenOpened": "2025-04-15T17:34:49.871Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\Program.cs",
-              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
-              "RelativeToolTip": "DatabaseIntegration\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "GUIAccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\GUIAccess.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs [Design]",
+              "RelativeToolTip": "DatabaseIntegration\\GUIAccess.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T11:36:41.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T17:07:52.311Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GUIAccess.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.Designer.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\GUIAccess.Designer.cs",
-              "ToolTip": "C:\\Users\\erike\\Documents\\GitHub\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.Designer.cs",
-              "RelativeToolTip": "DatabaseIntegration\\GUIAccess.Designer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADgv6YDAAAWAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\Program.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
+              "RelativeToolTip": "DatabaseIntegration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T15:09:12.685Z",
+              "WhenOpened": "2025-04-15T17:06:10.063Z",
               "EditorCaption": ""
             }
           ]

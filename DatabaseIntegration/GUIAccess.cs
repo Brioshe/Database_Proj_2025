@@ -17,39 +17,38 @@ namespace DatabaseIntegration
             InitializeComponent();
         }
 
-        private void Form2_Load(object sender, EventArgs e)
+        private void button6_Click(object sender, EventArgs e) // Add customer
         {
-
+            AddCustomer newCustomerForm = new AddCustomer();
+            newCustomerForm.ShowDialog();
         }
 
-        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        private void button8_Click(object sender, EventArgs e) // Add Vehicle
         {
-
+            AddVehicle newVehicleForm = new AddVehicle();
+            newVehicleForm.ShowDialog();
         }
 
-        private void label15_Click(object sender, EventArgs e)
+        private void button7_Click(object sender, EventArgs e) // Schedule Appointment
         {
-
+            SchedAppt newAppointmentForm = new SchedAppt();
+            newAppointmentForm.ShowDialog();
         }
 
-        private void textBox13_TextChanged(object sender, EventArgs e)
+        private void button11_Click(object sender, EventArgs e) // Technician Management
         {
-
+            TechMgmt newTechnicianForm = new TechMgmt();
+            newTechnicianForm.ShowDialog();
         }
 
-        private void label21_Click(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e) // Close
         {
-
+            Close();
         }
 
-        private void groupBox6_Enter(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void comboBox5_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
+            Close();
         }
     }
 }

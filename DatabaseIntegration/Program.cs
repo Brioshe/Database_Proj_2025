@@ -11,12 +11,6 @@ namespace DatabaseIntegration
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            AddVehicle addVehicle = new();
-            addVehicle.Show();
-            AddCustomer addcustomer = new();
-            addcustomer.Show();
-            SchedAppt schedAppt = new();
-            schedAppt.Show();
             Application.Run(new GUIAccess());
 
         }
