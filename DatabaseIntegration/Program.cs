@@ -43,7 +43,7 @@ namespace DatabaseIntegration
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
-                @"Data Source=PLAYSTATION-4\SQLEXPRESS;Initial Catalog=MechanicShop;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False");
+                @"Data Source=DESKTOP-59EFNMM\SQLEXPRESS;Initial Catalog=MechanicShop;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False");
         }
     }
 
@@ -92,7 +92,7 @@ namespace DatabaseIntegration
         [Key]
         public int service_id { get; set; }
         public string? service_name { get; set; }
-        public double cost { get; set; }
+        public decimal cost { get; set; }
     }
 
     public class Technician

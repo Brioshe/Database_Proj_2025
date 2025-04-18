@@ -183,7 +183,6 @@ C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug
 C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\obj\Debug\net8.0-windows\DatabaseIntegration.csproj.AssemblyReference.cache
 C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\obj\Debug\net8.0-windows\DatabaseIntegration.addcustomer.resources
 C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\obj\Debug\net8.0-windows\DatabaseIntegration.addVehicle.resources
-C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\obj\Debug\net8.0-windows\DatabaseIntegration.Form1.resources
 C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\obj\Debug\net8.0-windows\DatabaseIntegration.GUIAccess.resources
 C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\obj\Debug\net8.0-windows\DatabaseIntegration.csproj.GenerateResource.cache
 C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\obj\Debug\net8.0-windows\DatabaseIntegration.GeneratedMSBuildEditorConfig.editorconfig
@@ -280,3 +279,17 @@ C:\Users\Brandon The Great\Documents\School\Database\Database\Database_Proj_2025
 C:\Users\Brandon The Great\Documents\School\Database\Database\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
 C:\Users\Brandon The Great\Documents\School\Database\Database\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\System.Text.Json.dll
 C:\Users\Brandon The Great\Documents\School\Database\Database\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\obj\Debug\net8.0-windows\DatabaseIntegration.TechMgmt.resources
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\erike\Documents\GitHub\Database_Proj_2025\DatabaseIntegration\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
