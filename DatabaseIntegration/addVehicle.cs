@@ -104,18 +104,6 @@ namespace DatabaseIntegration
 
             using (var context = new MechanicShopContext())
             {
-                // Add the car first
-                var newCar = new Car
-                {
-                    license_plate = licensePlate,
-                    make_id = (int)cmbMake.SelectedValue,  // Selected Make Id
-                    model_id = (int)cmbModel.SelectedValue,  // Selected Model Id
-                };
-
-                context.Cars.Add(newCar);
-                context.SaveChanges();
-
-                MessageBox.Show("." + customerFirstName + ". ." + customerLastName + "");
 
                 // Now call the stored procedure to assign the car to the customer
                 AssignCarOwner(context, customerFirstName, customerLastName, licensePlate, make, model);

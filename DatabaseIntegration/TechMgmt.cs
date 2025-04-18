@@ -22,29 +22,22 @@ namespace DatabaseIntegration
             Close();
         }
 
-        private void button3_Click(object sender, EventArgs e) // add tech
+        private void PopulateServiceDropdown()
         {
-            try
+            using (var context = new MechanicShopContext())
             {
-                using (var context = new MechanicShopContext())
-                {
-                    var newTech = new Technician
-                    {
-                        first_name = txtFN.Text.Trim(),
-                        last_name = txtLN.Text.Trim()
-                    };
-
-                    context.Technicians.Add(newTech);
-                    context.SaveChanges();
-
-                    MessageBox.Show("Technician added successfully!");
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error adding technician: " + ex.Message);
+                var services = context.Services.ToList();
+                cmbService.DataSource = services;
+                cmbService.DisplayMember = "service_name";
+                cmbService.ValueMember = "service_id";
             }
         }
+
+        private void TechMgmt_Load(object sender, EventArgs e)
+        {
+            PopulateServiceDropdown();
+        }
+
 
         private void button1_Click(object sender, EventArgs e) // add service
         {
@@ -83,7 +76,7 @@ namespace DatabaseIntegration
 
                     // Find the service by service name
                     var service = context.Services
-                        .Where(s => s.service_name == comboBox4.Text.Trim())
+                        .Where(s => s.service_name == cmbService.Text.Trim())
                         .FirstOrDefault();
 
                     if (technician == null)
@@ -115,6 +108,54 @@ namespace DatabaseIntegration
             catch (Exception ex)
             {
                 MessageBox.Show("Error assigning service to technician: " + ex.Message);
+            }
+        }
+
+        private void btnAddTech_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using (var context = new MechanicShopContext())
+                {
+                    var newTech = new Technician
+                    {
+                        first_name = txtFN.Text.Trim(),
+                        last_name = txtLN.Text.Trim()
+                    };
+
+                    context.Technicians.Add(newTech);
+                    context.SaveChanges();
+
+                    MessageBox.Show("Technician added successfully!");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error adding technician: " + ex.Message);
+            }
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                using (var context = new MechanicShopContext())
+                {
+                    var newService = new Service
+                    {
+                        service_name = servicetxt.Text.Trim(),
+                        cost = Decimal.Parse(costtxt.Text.Trim())
+                    };
+
+                    context.Services.Add(newService);
+                    context.SaveChanges();
+
+                    MessageBox.Show("Service added successfully!");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error adding service: " + ex.Message);
             }
         }
     }
