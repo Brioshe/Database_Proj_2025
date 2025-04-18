@@ -26,5 +26,32 @@ namespace DatabaseIntegration
         {
             Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using (var context = new MechanicShopContext())
+                {
+                    var newCustomer = new Service
+                    {
+                        service_name = servicetxt.Text.Trim(),
+                        cost = costtxt.Text.Trim()
+                    };
+
+                    context.Customers.Add(newCustomer);
+                    context.SaveChanges();
+
+                    MessageBox.Show("Customer added successfully!");
+                    txtFirstName.Text = "";
+                    txtLastName.Text = "";
+                    txtPhone.Text = "";
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error adding customer: " + ex.Message);
+            }
+        }
     }
 }

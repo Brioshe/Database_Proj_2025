@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\techmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\schedappt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|c:\\users\\brandon the great\\documents\\school\\database\\database\\database_proj_2025\\databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE09510-C6E3-445F-B04B-D2F26CBE5F8B}|DatabaseIntegration\\DatabaseIntegration.csproj|solutionrelative:databaseintegration\\guiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,30 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "addVehicle.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\addVehicle.cs",
-              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs [Design]",
-              "RelativeToolTip": "DatabaseIntegration\\addVehicle.cs [Design]",
+              "Title": "TechMgmt.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\TechMgmt.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\TechMgmt.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\TechMgmt.cs",
+              "RelativeToolTip": "DatabaseIntegration\\TechMgmt.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA+wCUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:25:42.517Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-18T13:45:42.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "addcustomer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\addcustomer.cs",
-              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs [Design]",
-              "RelativeToolTip": "DatabaseIntegration\\addcustomer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:36:53.522Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TechMgmt.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\TechMgmt.cs",
               "RelativeDocumentMoniker": "DatabaseIntegration\\TechMgmt.cs",
@@ -75,6 +80,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "addcustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\addcustomer.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs",
+              "RelativeToolTip": "DatabaseIntegration\\addcustomer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:33:00.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "addVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\addVehicle.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs",
+              "RelativeToolTip": "DatabaseIntegration\\addVehicle.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2gAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:01:50.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "addVehicle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\addVehicle.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addVehicle.cs [Design]",
+              "RelativeToolTip": "DatabaseIntegration\\addVehicle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:25:42.517Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GUIAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\GUIAccess.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs",
+              "RelativeToolTip": "DatabaseIntegration\\GUIAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:26:17.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\Program.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
+              "RelativeToolTip": "DatabaseIntegration\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwEoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:06:10.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "addcustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs",
+              "RelativeDocumentMoniker": "DatabaseIntegration\\addcustomer.cs",
+              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\addcustomer.cs [Design]",
+              "RelativeToolTip": "DatabaseIntegration\\addcustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:37:53.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SchedAppt.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\SchedAppt.cs",
               "RelativeDocumentMoniker": "DatabaseIntegration\\SchedAppt.cs",
@@ -86,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "GUIAccess.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\GUIAccess.cs",
               "RelativeDocumentMoniker": "DatabaseIntegration\\GUIAccess.cs",
@@ -95,19 +176,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T17:07:52.311Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
-              "RelativeDocumentMoniker": "DatabaseIntegration\\Program.cs",
-              "ToolTip": "C:\\Users\\Brandon The Great\\Documents\\School\\Database\\Database\\Database_Proj_2025\\DatabaseIntegration\\Program.cs",
-              "RelativeToolTip": "DatabaseIntegration\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:06:10.063Z",
-              "EditorCaption": ""
             }
           ]
         }
