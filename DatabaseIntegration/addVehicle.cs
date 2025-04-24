@@ -93,20 +93,35 @@ namespace DatabaseIntegration
 
         private void button3_Click(object sender, EventArgs e)
         {
+            if (cmbCustomer.SelectedItem == null)
+            {
+                MessageBox.Show("Please select a customer");
+                return;
+            }
+
             string licensePlate = txtLP.Text;
             string make = cmbMake.Text;  // Get selected Make
             string model = cmbModel.Text;  // Get selected Model
 
-            string[] nameParts = cmbCustomer.Text.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-
-            string customerFirstName = nameParts.Length > 0 ? nameParts[0] : "";
-            string customerLastName = nameParts.Length > 1 ? nameParts[nameParts.Length - 1] : "";  // Take last part as the last name
+            // Get the customer ID directly from the selected item
+            int customerId = ((CustomerDisplay)cmbCustomer.SelectedItem).Id;
 
             using (var context = new MechanicShopContext())
             {
+                // Fetch the customer data from the database using the ID
+                var customer = context.Customers.FirstOrDefault(c => c.customer_id == customerId);
 
-                // Now call the stored procedure to assign the car to the customer
-                AssignCarOwner(context, customerFirstName, customerLastName, licensePlate, make, model);
+                if (customer != null)
+                {
+                    // Now call the stored procedure with the proper customer information
+                    AssignCarOwner(context, customer.first_name, customer.last_name,
+                                   licensePlate, make, model);
+                }
+                else
+                {
+                    MessageBox.Show("Selected customer not found in database");
+                    return;
+                }
             }
             Close();
         }
