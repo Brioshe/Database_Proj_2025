@@ -32,7 +32,6 @@
             label11 = new Label();
             panel1 = new Panel();
             groupBox3 = new GroupBox();
-            btnSchedule = new Button();
             label4 = new Label();
             textBox2 = new TextBox();
             button2 = new Button();
@@ -54,6 +53,7 @@
             textBox3 = new TextBox();
             btnSetApt = new Button();
             button4 = new Button();
+            btnSchedule = new Button();
             panel1.SuspendLayout();
             groupBox3.SuspendLayout();
             groupBox1.SuspendLayout();
@@ -116,17 +116,6 @@
             groupBox3.TabIndex = 25;
             groupBox3.TabStop = false;
             groupBox3.Text = "Appointment Information";
-            // 
-            // btnSchedule
-            // 
-            btnSchedule.Location = new Point(531, 28);
-            btnSchedule.Margin = new Padding(3, 4, 3, 4);
-            btnSchedule.Name = "btnSchedule";
-            btnSchedule.Size = new Size(70, 31);
-            btnSchedule.TabIndex = 43;
-            btnSchedule.Text = "Set";
-            btnSchedule.UseVisualStyleBackColor = true;
-            btnSchedule.Click += btnSchedule_Click;
             // 
             // label4
             // 
@@ -335,6 +324,17 @@
             button4.Text = "Cancel";
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
+            // 
+            // btnSchedule
+            // 
+            btnSchedule.Location = new Point(531, 28);
+            btnSchedule.Margin = new Padding(3, 4, 3, 4);
+            btnSchedule.Name = "btnSchedule";
+            btnSchedule.Size = new Size(70, 31);
+            btnSchedule.TabIndex = 43;
+            btnSchedule.Text = "Set";
+            btnSchedule.UseVisualStyleBackColor = true;
+            btnSchedule.Click += btnSchedule_Click;
             // 
             // SchedAppt
             // 
